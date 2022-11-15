@@ -1,8 +1,8 @@
 #Step 5
 
 import random
-import hangman_words
-import hangman_art
+import Hangman.hangman_words as hangman_words
+import Hangman.hangman_art as hangman_art
 
 #TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
 #Delete this line: word_list = ["ardvark", "baboon", "camel"]

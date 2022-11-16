@@ -18,3 +18,4 @@ roundpay = round(pay,2)
 
 
 print(f"Each person should pay: ${roundpay}")
+#day 2

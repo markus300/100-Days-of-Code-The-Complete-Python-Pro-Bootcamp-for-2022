@@ -1,5 +1,5 @@
 #Step 5
-
+#day 7
 import random
 import Hangman.hangman_words as hangman_words
 import Hangman.hangman_art as hangman_art

@@ -30,6 +30,8 @@ def play(person1):
   while win == "True":
     os.system("cls")
     person2 = random.randint(0,49)
+    if person1 == person2:
+        person2 = random.randint(0,49)
     print (logo)
     if score >0:
       print(f"You're right! Current score: {score}.")
